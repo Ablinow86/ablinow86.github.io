@@ -2,7 +2,8 @@ body
  {display: inline-block;}
 
 body {
-  background-color: red;
+  background-color: black;
+  color: white;
 }
 .hh1 {
   text-align: center;
