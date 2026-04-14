@@ -12,7 +12,7 @@ html {
 .post:hover { 
    transform: translate(-5px);
 }
-.post2 {
+.posta {
    background-color: green;
    padding: 40px;
    margin: 40px 0;
@@ -20,7 +20,7 @@ html {
    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
    transition: tranform 0.2 ease;
 }
-.post2:hover { 
+.posta:hover { 
    transform: translate(-5px);
 body
  {display: inline-block;}
