@@ -1,7 +1,16 @@
 html {
    font-size: 45px;
 }
-
+.post {
+   padding: 20px;
+   margin: 20px 0;
+   border-radius: 12px;
+   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+   transition: tranform 0.2 ease;
+}
+.post:hover { 
+   transform: translate(-5px);
+}
 body
  {display: inline-block;}
 
